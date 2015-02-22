@@ -1,0 +1,24 @@
+{
+  "name": "es6-data-structures",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.9"
+  },
+  "devDependencies": {
+    "gulp-babel": "^4.0.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.9.2",
+    "gulp-util": "^3.0.3",
+    "jshint-stylish": "^1.0.0",
+    "run-sequence": "~1.0.2",
+    "systemjs": "^0.14.1",
+    "systemjs-builder": "~0.9.0"
+  }
+}
