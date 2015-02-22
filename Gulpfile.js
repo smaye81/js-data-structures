@@ -3,7 +3,7 @@ var gutil = require('gulp-util');
 var concat = require('gulp-concat');
 var babel = require('gulp-babel');
 var Builder = require('systemjs-builder');
-var runSequence = require('run-sequence');
+var runSequence = require('run-sequence').use(gulp);
 var jshint = require('gulp-jshint');
 var path = require('path');
 
