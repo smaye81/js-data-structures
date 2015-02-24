@@ -127,7 +127,7 @@ class Tree {
 
     convertArrayToTree(arr) {
         console.log(arr);
-        
+
     }
 }
 

@@ -6,12 +6,16 @@ Uses Babel for transpilation to ES5.
 Structures implemented:
 
 * Linked List
+* Tree (basic operations)
 
 
 To Do:
 
+* Heap
+* Stack
 * Priority Queue
-* Tree, Binary Search Tree
+* Self Balancing Tree
 * Graph
 
+* Visualizations of the data structures
 
